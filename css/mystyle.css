@@ -1,0 +1,36 @@
+h1{
+    color: navy;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+h1, h2, h3, h4, h5, h6{
+    text-align: center;
+    background-color: palegreen;
+}
+
+.mystyle{
+    border: 2px solid brown;
+    margin: 20px;
+    width: 300px;
+    height: auto;
+    border-radius: 20px;
+    display: inline-block;
+    background-color: orchid;
+    padding: 5px 5px 5px 5px
+   
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    padding-top: 5px;
+    border: 2px solid green;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
